@@ -1,0 +1,17 @@
+.login-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 40px; /* Add gap between the two cards */
+  }
+  
+  .container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  
